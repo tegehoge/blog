@@ -1,9 +1,10 @@
-title = "てげほげ"
+title = "Notre-Dame de Paris"
 baseURL = "https://example.com"
-languageCode = "ja"
+languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+themesDir = "../.."
 
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -19,7 +20,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = ""
+  twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
   youtube = ""
   github = ""
