@@ -1,7 +1,4 @@
-.avenir {
+.avenir, .athelas, .serif {
   font-family: 'Noto Sans JP'!important;
-}
-
-.athelas {
-  font-family: 'Noto Sans JP'!important;
+  font-weight: 400;
 }
