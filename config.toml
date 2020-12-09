@@ -1,5 +1,6 @@
 title = "てげほげ"
-baseURL = "https://example.com"
+# TODO: tege.work の DNS を設定したら変える
+baseURL = "https://zen-varahamihira-53ea57.netlify.app/"
 languageCode = "ja"
 theme = "gohugo-theme-ananke"
 
