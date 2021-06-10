@@ -2,6 +2,7 @@
 date: 2021-06-07T12:00:00+09:00
 title: Web ナイト宮崎 vol.13 〜てげ LT 祭りしたい〜
 description: 今回はテーマなしのLT祭りです
+featured_image: "/images/webnight.png"
 tags: ["Webナイト宮崎", "技術", "イベント"]
 ---
 
