@@ -10,6 +10,8 @@ tags: ["Webナイト宮崎", "技術", "イベント"]
 5/14 (金) に 13 回目となる Web ナイト宮崎を開催しました。
 その様子をレポートします。
 
+<!--more-->
+
 ## 今回は LT 祭り
 
 [![Web ナイト宮崎 vol.13](webnight-vol13.jpg)](https://tegehoge.connpass.com/event/210312/)
